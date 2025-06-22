@@ -1,0 +1,27 @@
+{
+  "name": "project-gen-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DennySWijaya/project-gen-v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DennySWijaya/project-gen-v2/issues"
+  },
+  "homepage": "https://github.com/DennySWijaya/project-gen-v2#readme",
+  "dependencies": {
+    "@google/genai": "^1.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
